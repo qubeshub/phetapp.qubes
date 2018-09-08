@@ -1,0 +1,7 @@
+#!/bin/sh
+
+/usr/bin/invoke_app "$@" -t phetapp \
+    -w captive \
+    -c "xview -fullscreen -onroot @tool/data/gene-machine-lac-operon-600.png" \
+    -C java \
+    -A "-jar @tool/bin/gene-machine-lac-operon_en.jar"
