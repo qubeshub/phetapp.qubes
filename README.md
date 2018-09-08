@@ -10,8 +10,8 @@ Example PhET app on QUBES
 
 #### Attribution
 
-PhET Interactive Simulations<br \>
-University of Colorado<br \>
+PhET Interactive Simulations<br />
+University of Colorado<br />
 https://phet.colorado.edu 
 
 #### Design Team
@@ -24,4 +24,5 @@ https://phet.colorado.edu
 
 #### General Licensing Information
 
-See LICENSE file (https://phet.colorado.edu/en/licensing)
+See [LICENSE file](https://github.com/qubeshub/phetlacoperon.qubes/blob/master/LICENSE)<br />
+More info: https://phet.colorado.edu/en/licensing)
