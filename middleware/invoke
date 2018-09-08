@@ -1,6 +1,6 @@
 #!/bin/sh
 
-/usr/bin/invoke_app "$@" -t phetapp \
+/usr/bin/invoke_app "$@" -t phetlacoperon \
     -w captive \
     -c "xview -fullscreen -onroot @tool/data/gene-machine-lac-operon-600.png" \
     -C java \
